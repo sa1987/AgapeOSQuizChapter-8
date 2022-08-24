@@ -1,42 +1,42 @@
 [
     {
-      "question": "Which of the following is/are not FAIR principles?",
-      "choice1": "Findable & Accessible",
-      "choice2": "Accessible & Reproducible",
-      "choice3": "Identifiable & Reproducible",
-      "choice4": "Reproducible & Findable",
+      "question": "Which of the following factors are addressed by open science policies?",
+      "choice1": "Restriction and anonymisation of personal data",
+      "choice2": "Property rights, copyright and licencing",
+      "choice3": "Provision of funding opportunities",
+      "choice4": "Open-access publications and publishing standards",
       "answer": 3
     },
     {
-      "question": "Which of the following statements is true?'?",
-      "choice1": "Metadata should be determined at the beginning of the project to provide guidelines for the process.",
-      "choice2": "Understanding the purpose of a file is a good way to start when you try to decide the format for file preserving.",
-      "choice3": "PID (persistent identifier) includes DOI, ORCID, ISBN, URL, etc.",
-      "choice4": "Sensitive data can always be FAIR in the same way as non-sensitive data.",
+      "question": "Which of the following belongs to general principles of scientific integrity?",
+      "choice1": "Honesty",
+      "choice2": "Accountability",
+      "choice3": "Professional courtesy and fairness",
+      "choice4": "Impertinence",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is NOT classified as plagiarism? ",
+      "choice1": "Quoting and citing",
+      "choice2": "Copying and pasting prior work",
+      "choice3": "Rephrasing prior work without citing",
+      "choice4": "Presenting ideas of others as yours because you experimentally proved them",
+      "answer": 1
+    },
+	{
+      "question": "Which of the following is NOT a violation of ethical research principles? ",
+      "choice1": "Lack of informed consent of the participants",
+      "choice2": "Asking difficult questions",
+      "choice3": "Use of personal data beyond the scope of the research",
+      "choice4": "Lack of adherence to the GDPR principles",
       "answer": 2
     },
     {
-      "question": "If you want to find out about a specific author, the most effective way is to search by:",
-      "choice1": "ORCID",
-      "choice2": "URL",
-      "choice3": "DQI",
-      "choice4": "ARKs",
-      "answer": 1
-    },
-    {
-      "question": "Jane is conducting a research project that employs quantitative data without any personal or confidential information. How can she draw up a data management plan that is FAIR?",
-      "choice1": "Write a new data management plan, specifying the planned handling of all data types.",
-      "choice2": "Find the data management plan from a previous project and use it.",
-      "choice3": "Hire someone externally to write the data management plan.",
-      "choice4": "Delegate the job to one of her collaborators.",
-      "answer": 1
-    },
-    {
-      "question": " this is a place holder questions",
-      "choice1": "msgBox('Hello World');",
-      "choice2": "alertBox('Hello World');",
-      "choice3": "msg('Hello World');",
-      "choice4": "alert('Hello World');",
-      "answer": 4
+      "question": "Informed consent must be:",
+      "choice1": "Clear",
+      "choice2": "Clever",
+      "choice3": "Concise",
+      "choice4": "Continuous",
+      "answer": 2
     }
   ]
