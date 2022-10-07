@@ -1,6 +1,6 @@
 [
     {
-      "question": "Which of the following factors are addressed by open science policies?",
+      "question": "Which of the following factors is NOT addressed by open science policies?",
       "choice1": "Restriction and anonymisation of personal data",
       "choice2": "Property rights, copyright and licencing",
       "choice3": "Provision of funding opportunities",
@@ -8,7 +8,7 @@
       "answer": 3
     },
     {
-      "question": "Which of the following belongs to general principles of scientific integrity?",
+      "question": "Which of the following does NOT belong to general principles of scientific integrity?",
       "choice1": "Honesty",
       "choice2": "Accountability",
       "choice3": "Professional courtesy and fairness",
@@ -32,7 +32,7 @@
       "answer": 2
     },
     {
-      "question": "Informed consent must be:",
+      "question": "Informed consent is NOT required to be:",
       "choice1": "Clear",
       "choice2": "Clever",
       "choice3": "Concise",
